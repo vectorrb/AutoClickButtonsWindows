@@ -1,0 +1,16 @@
+C:\Users\rutuja_bhole\source\repos\AutoClickButtons\AutoClickButtons\bin\Debug\net8.0-windows\AutoClickButtons.exe
+C:\Users\rutuja_bhole\source\repos\AutoClickButtons\AutoClickButtons\bin\Debug\net8.0-windows\AutoClickButtons.deps.json
+C:\Users\rutuja_bhole\source\repos\AutoClickButtons\AutoClickButtons\bin\Debug\net8.0-windows\AutoClickButtons.runtimeconfig.json
+C:\Users\rutuja_bhole\source\repos\AutoClickButtons\AutoClickButtons\bin\Debug\net8.0-windows\AutoClickButtons.dll
+C:\Users\rutuja_bhole\source\repos\AutoClickButtons\AutoClickButtons\bin\Debug\net8.0-windows\AutoClickButtons.pdb
+C:\Users\rutuja_bhole\source\repos\AutoClickButtons\AutoClickButtons\obj\Debug\net8.0-windows\AutoClickButtons.Form1.resources
+C:\Users\rutuja_bhole\source\repos\AutoClickButtons\AutoClickButtons\obj\Debug\net8.0-windows\AutoClickButtons.csproj.GenerateResource.cache
+C:\Users\rutuja_bhole\source\repos\AutoClickButtons\AutoClickButtons\obj\Debug\net8.0-windows\AutoClickButtons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rutuja_bhole\source\repos\AutoClickButtons\AutoClickButtons\obj\Debug\net8.0-windows\AutoClickButtons.AssemblyInfoInputs.cache
+C:\Users\rutuja_bhole\source\repos\AutoClickButtons\AutoClickButtons\obj\Debug\net8.0-windows\AutoClickButtons.AssemblyInfo.cs
+C:\Users\rutuja_bhole\source\repos\AutoClickButtons\AutoClickButtons\obj\Debug\net8.0-windows\AutoClickButtons.csproj.CoreCompileInputs.cache
+C:\Users\rutuja_bhole\source\repos\AutoClickButtons\AutoClickButtons\obj\Debug\net8.0-windows\AutoClickButtons.dll
+C:\Users\rutuja_bhole\source\repos\AutoClickButtons\AutoClickButtons\obj\Debug\net8.0-windows\refint\AutoClickButtons.dll
+C:\Users\rutuja_bhole\source\repos\AutoClickButtons\AutoClickButtons\obj\Debug\net8.0-windows\AutoClickButtons.pdb
+C:\Users\rutuja_bhole\source\repos\AutoClickButtons\AutoClickButtons\obj\Debug\net8.0-windows\AutoClickButtons.genruntimeconfig.cache
+C:\Users\rutuja_bhole\source\repos\AutoClickButtons\AutoClickButtons\obj\Debug\net8.0-windows\ref\AutoClickButtons.dll
